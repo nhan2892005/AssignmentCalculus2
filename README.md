@@ -14,7 +14,7 @@
 
 [Here](https://github.com/nhan2892005/Calculus-ReimannSum_in_Python/blob/main/Report.pdf)
 
-## <a name="evaluate">🤸 Evaluation</a>
+## <a name="evaluate">✅ Evaluation</a>
 
 9.5/10 Review by Ph.D Trần Ngọc Diễm, Ho Chi Minh City University of Technology - Viet Nam National University Ho Chi Minh City
 
